@@ -24,6 +24,16 @@ nav {
     justify-content: space-around;
     align-items: center;
     font-size: Arial;
-    background-color: blue;
+    background-color:darkblue;
     height: 8vh;
 } 
+
+.nav-list{
+    list-style: none;
+    display: flex;
+
+}
+.nav-list li{
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
