@@ -24,16 +24,20 @@ a:hover{
 
 nav {
     display: flex;
-    justify-content: space-around;
     align-items: center;
     font-size: Arial;
     background-color:darkblue;
     height: 8vh;
+    width: 100vw;
+    position: fixed;
+
+
 } 
 
 .nav-list{
     list-style: none;
     display: flex;
+    
 
 }
 .nav-list li{
@@ -41,3 +45,12 @@ nav {
     margin-left: 32px;
 }
 
+main{
+    overflow-y: hidden;
+}
+main img{
+    height: 100%;
+
+
+
+}
