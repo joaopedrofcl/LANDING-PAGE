@@ -39,7 +39,7 @@ nav {
 }
 
 .content{
-    margin: 20px;
+    margin: 10px;
     margin-left: auto;
     margin-right: auto;
     overflow-x: hidden;    
@@ -61,4 +61,22 @@ nav {
     border:2px solid snow;
     border-radius: 2px;
     cursor: pointer;
+    transition: .6s;
+}
+
+.bar:hover{
+    background-color: steelblue;
+}
+
+input{
+    display: none;   
+}
+
+.slides{
+    display: inline;
+    width: 500%;
+    height: 100%;
+}
+.slide{
+
 }
