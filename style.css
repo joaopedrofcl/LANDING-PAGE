@@ -27,6 +27,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     font-size: Arial;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     background-color:darkblue;
     height: 8vh;
     width: 100vw;
