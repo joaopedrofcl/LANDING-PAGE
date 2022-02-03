@@ -57,8 +57,21 @@ main img{
   
 }
 .matricula{
+    padding: 10px;
     display: flex;
+    
+
 }
 .matricula h2{
+
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 4px;
+    justify-content: space-around;
+    font-size: 50px;
+    padding: 10px;
+}
+.matricula img{
+
+    height: 100%;
+    width: 100%;
 }
