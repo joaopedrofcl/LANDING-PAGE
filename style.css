@@ -56,3 +56,9 @@ main img{
     width: 100%;
   
 }
+.matricula{
+    display: flex;
+}
+.matricula h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
